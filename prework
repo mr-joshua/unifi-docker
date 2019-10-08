@@ -1,2 +1,8 @@
 sudo adduser --disabled-password --gecos '' docker-unifi
 sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+
+
+URLs for adoption issues
+https://help.ubnt.com/hc/en-us/articles/204909754-UniFi-Layer-3-methods-for-UAP-adoption-and-management#8
+https://github.com/jacobalberty/unifi-docker/issues/142
